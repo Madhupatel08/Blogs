@@ -20,6 +20,21 @@ After Submitting the application, and resume. A shortlist for Online technical a
 
 Second round was an online test.  Thhe test was conducted on Hackerrank platform. There were six sections of the test. Section 1 to 4 were Single correct Multiple-Choice Questions. Section 5 included coding questions. Section 6 has an essay question which was to explain about the challages you faced while woking with team project and how we dealt with it. The test had 10 MCQs, 2 coding questions ans 1 essay type question for testing your technical knowledge and imagination.MCQs were mainly from probability, geometry, number theory and time complexity(big-O notation). In Coding Questins we were supposed to write the full working code, and there were around 10 test cases for every question. It has Java, C++, C lanaguge support. I far as recall. 
 
+Test Duration - 120 mins
+Total Questions - 19
+
+Section 1 - 2 Questions - Coding Questions
+
+Section 2 - 1 Question - Essay Question
+
+Section 3 - 4 Questions - MCQ
+
+Section 4 - 4 Questions - MCQ
+
+Section 5 - 4 Questions - MCQ
+
+Section 6 - 4 Questions - MCQ
+
 Instructions of the test-
   - This is a timed test. Please make sure you are not interrupted during the test, as the timer cannot be paused once started.
   - Please ensure you have a stable internet connection.
