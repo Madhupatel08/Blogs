@@ -55,3 +55,24 @@ Offers were rolled out.
 - Read about the company before hand. 
 - Prepare a crisp introduction which incldes your past accomplishments and accomplishments and past experiences to their fundamental values: genuine, extraordinary, innovative, and involved, as a good practise.
 
+Adobe she codes is a program, 
+Eligibility Criteria
+
+Product Profile
+
+Year of Graduation2023
+
+Qualifications
+BE/ B. Tech – All Streams
+
+Dual Degree – All Streams M.Tech – All Streams
+
+Percentage Criteria for Post-Graduation - 70% in PG and UG, 60% in 12th and 10th
+
+Percentage Criteria for Under Graduation - 70% in UG, 60% in 12th and 10th
+
+Experience - 0 to 12 months
+
+Backlog - No Current Backlog
+Test Pattern: Cognitive ( 20 Q 20 M ) + Domain( 20 Q 20 M ) + Coding ( 2 Q 60 M) + Gamified ( ~30 Minutes 3 instruments) ( No Negative Marking)
+
