@@ -2,7 +2,7 @@
 
 Open your terminal and type-
 
-**Step 1)** Upadate the system repositories by using 
+**Step 1)** Download the updated package lists and metadata to your local system  
 ```
 sudo apt update
 ```
@@ -17,10 +17,10 @@ sudo apt install openssh-server
 ![image](https://user-images.githubusercontent.com/54492585/221065336-3206bc9c-bb7d-49b2-a1c0-dcb93e693cdf.png)
 
 
-**Step 3)** ```sudo systemctl status ssh```
+**Step 3)** Check the current status of the SSH (Secure Shell) service on your Linux system
+```sudo systemctl status ssh```
 
 ![image](https://user-images.githubusercontent.com/54492585/221065536-b92a9ed6-e02b-46f7-967d-28b0741cdea1.png)
-
 
 Press cntr + c to exit
 
@@ -35,6 +35,6 @@ Press cntr + c to exit
 ![image](https://user-images.githubusercontent.com/54492585/221065560-6939182b-da15-4486-8c3e-ea13bf041812.png)
 
 
-**Step 6)** And the final step. Open the terminal where you want to ssh and type
+**Step 6)** And the final step. Establish a secure shell (SSH) connection to a remote Linux server using followinf command
 
 ```ssh `username`_of_old_server@`ip_address`_of_old_server```
