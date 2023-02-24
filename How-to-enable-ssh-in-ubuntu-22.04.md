@@ -1,7 +1,10 @@
 # How to Enable SSH in UBUNTU 22.04
 
-Open your terminal and type-
+## Usage
+Enabling SSH (Secure Shell) in Linux allows remote access to the system over a secure, encrypted connection. SSH is a network protocol used to establish a secure, encrypted communication channel between two computers, enabling remote access and management of the Linux system from a remote location. It provides a more secure connection between the client and the server.
 
+
+## Steps to Follow
 **Step 1)** Download the updated package lists and metadata to your local system  
 ```
 sudo apt update
