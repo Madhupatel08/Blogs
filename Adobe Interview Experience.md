@@ -56,7 +56,7 @@ Questions asked were:
 - what is paging and one numerical kind of
 - Questions related to my project and some questions on JS(like what are call back functions and what is "this" 2/3 more basic questions) 
 - One question was on what is HTML form, write code for that.
-- One DSA question --set next pointer
+- One DSA question --set next pointer https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 - And a Discussion on heap implementation
 
 ## Round 3
