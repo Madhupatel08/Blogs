@@ -1,4 +1,4 @@
-# Introduction to Linux versiona
+# Introduction to Linux versions
 
 Linux is a free and open-source operating system that is based on the Unix operating system. It was created by Linus Torvalds in 1991 and has since become a popular alternative to commercial operating systems such as Windows and macOS.
 
