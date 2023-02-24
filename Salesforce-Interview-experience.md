@@ -1,6 +1,6 @@
 # Salesforce Interview Experience 
 
-Salesforce(India) visited our college for hiring intern in summers of 2021.  Cut-off for appearing in the Online Coding test was 7.5 and above.
+Salesforce(India) visited our college for hiring.  Cut-off for appearing in the Online Coding test was 7.5 and above.
 
 ## Profile
 - Intern (Software Engineer)
