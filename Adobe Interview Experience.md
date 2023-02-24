@@ -1,6 +1,6 @@
 # Adobe Interview Experience | On-Campus for Internship
 
-Adobe(India) visited our college for hiring intern in summers of 2021.  Cut-off for appearing in the Online Coding test was 8 and above.
+Adobe(India) visited our college for hiring.  Cut-off for appearing in the Online Coding test was 8 and above.
 
 ## Eligilibity 
 - Year of graduation - 2023
