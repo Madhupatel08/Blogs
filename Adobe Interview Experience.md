@@ -69,7 +69,7 @@ Offers were rolled out.
 - Revise your projects mentioned on the resume.
 - Stay Honest, if you don't know the answer rather than wasting the time.
 - Read about the company beforehand. 
-- Prepare a crisp introduction that incldes your accomplishments and past experiences to their fundamental values.
+- Prepare a crisp introduction that includes your accomplishments and past experiences to their fundamental values.
 
 
 
