@@ -81,6 +81,7 @@ Step 14) The presentation layer header (PH) forwards the data to the email clien
 
 
 
-
+<img width="796" alt="Screenshot 2024-07-26 at 6 52 31 PM" src="https://github.com/user-attachments/assets/068177c8-1989-4586-ab8c-79462f9b0711">
+ 
 
 
